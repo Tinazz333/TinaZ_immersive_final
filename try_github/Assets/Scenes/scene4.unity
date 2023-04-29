@@ -263,6 +263,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 7a9eeedb6093ecb4fb506ebb617a9123, type: 2}
     - target: {fileID: 919132149155446097, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_Name
       value: weird_land (2)
@@ -302,7 +306,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 981.1
+      value: 982.6
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -340,6 +344,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: eba93a2256f65ac4ba7696a892efd9eb, type: 2}
     - target: {fileID: 919132149155446097, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_Name
       value: weird_land (3)
@@ -525,7 +533,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 971.6
+      value: 972.1
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -563,6 +571,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6f556288675354a468948efdd893f804, type: 2}
     - target: {fileID: 919132149155446097, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_Name
       value: weird_land (6)
@@ -640,6 +652,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: b3460acc09d354148b803dabba89db70, type: 2}
     - target: {fileID: 919132149155446097, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_Name
       value: weird_land (4)
@@ -1009,11 +1025,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 934.4
+      value: 939.9
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10723.6
+      value: -10717.7
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_LocalRotation.w
@@ -1047,6 +1063,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 0f5861ded67579841890241ffe8d4c00, type: 2}
     - target: {fileID: 919132149155446097, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_Name
       value: weird_land (1)
@@ -1438,7 +1458,7 @@ MeshRenderer:
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
-  - {fileID: 10303, guid: 0000000000000000f000000000000000, type: 0}
+  - {fileID: 2100000, guid: 660eacb5fdbf3944db9630d5d439ba67, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
@@ -1823,7 +1843,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 940
+      value: 939.8
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1861,6 +1881,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: ae022068ae4fe1c4abff51a1c07e5d8e, type: 2}
     - target: {fileID: 919132149155446097, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_Name
       value: weird_land
@@ -1896,11 +1920,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_LocalPosition.x
-      value: -3808.7
+      value: -3811.2
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 973.2
+      value: 972.3
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_LocalPosition.z
@@ -1938,6 +1962,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: c0d858f92d53cd54d9272eb64ca8f86c, type: 2}
     - target: {fileID: 919132149155446097, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_Name
       value: weird_land (5)
@@ -2246,6 +2274,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: f788be7caf19a4743aa60af0bee36bd4, type: 2}
     - target: {fileID: 919132149155446097, guid: 27f57ed3cafc2844992b0cf8b475c2e7, type: 3}
       propertyPath: m_Name
       value: weird_land (7)

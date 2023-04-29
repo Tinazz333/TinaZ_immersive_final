@@ -527,6 +527,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: b12e9ef99f2dc7d4aa705a71b2697c74, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 51b20268aab74574a9ffcbd4e139b992, type: 2}
     - target: {fileID: 919132149155446097, guid: b12e9ef99f2dc7d4aa705a71b2697c74, type: 3}
       propertyPath: m_Name
       value: Panel_2 (1)
@@ -648,6 +652,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -20.812
       objectReference: {fileID: 0}
+    - target: {fileID: 6320367809717290152, guid: 699f9c458e584fa4693d0a7244cccf3c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 779497e38722f0d4986c8dc3e70cf148, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 699f9c458e584fa4693d0a7244cccf3c, type: 3}
 --- !u!1 &1412334430 stripped
@@ -867,6 +875,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -7635826562936255635, guid: b12e9ef99f2dc7d4aa705a71b2697c74, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 51b20268aab74574a9ffcbd4e139b992, type: 2}
     - target: {fileID: 919132149155446097, guid: b12e9ef99f2dc7d4aa705a71b2697c74, type: 3}
       propertyPath: m_Name
       value: Panel_2
@@ -955,7 +967,7 @@ PrefabInstance:
     - target: {fileID: -7635826562936255635, guid: e2fb341bc1e1c684582fe33b76696619, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 1c818cbd280c3864fbd66c7eb7cc829a, type: 2}
+      objectReference: {fileID: 2100000, guid: 1d894bf0d8360f9419e76588652fb5e6, type: 2}
     - target: {fileID: 919132149155446097, guid: e2fb341bc1e1c684582fe33b76696619, type: 3}
       propertyPath: m_Name
       value: control_room1
@@ -1300,5 +1312,9 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: -20.812
       objectReference: {fileID: 0}
+    - target: {fileID: 6320367809717290152, guid: 699f9c458e584fa4693d0a7244cccf3c, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 779497e38722f0d4986c8dc3e70cf148, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 699f9c458e584fa4693d0a7244cccf3c, type: 3}
