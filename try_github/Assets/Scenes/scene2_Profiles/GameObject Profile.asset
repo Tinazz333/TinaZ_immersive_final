@@ -67,7 +67,7 @@ MonoBehaviour:
     value: 1
   intensity:
     overrideState: 1
-    value: 13.38
+    value: 1.1
   threshold:
     overrideState: 0
     value: 3.1
