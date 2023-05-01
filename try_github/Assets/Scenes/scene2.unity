@@ -136,27 +136,27 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 24f740008f9a24a43bcf67313777ab56, type: 3}
       propertyPath: m_LocalScale.x
-      value: 4000.0002
+      value: 3000
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 24f740008f9a24a43bcf67313777ab56, type: 3}
       propertyPath: m_LocalScale.y
-      value: 4000.0002
+      value: 3000
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 24f740008f9a24a43bcf67313777ab56, type: 3}
       propertyPath: m_LocalScale.z
-      value: 4000.0002
+      value: 3000
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 24f740008f9a24a43bcf67313777ab56, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 2877
+      value: 1811
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 24f740008f9a24a43bcf67313777ab56, type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1156
+      value: 1723
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 24f740008f9a24a43bcf67313777ab56, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -10155
+      value: -9451
       objectReference: {fileID: 0}
     - target: {fileID: -8679921383154817045, guid: 24f740008f9a24a43bcf67313777ab56, type: 3}
       propertyPath: m_LocalRotation.w
@@ -193,11 +193,11 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: 24f740008f9a24a43bcf67313777ab56, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: 1a758d9dd3e66f74bbbf46515122b5b2, type: 2}
+      objectReference: {fileID: 2100000, guid: 5dfed3dd686054146a53842d5f100ec2, type: 2}
     - target: {fileID: -7511558181221131132, guid: 24f740008f9a24a43bcf67313777ab56, type: 3}
       propertyPath: m_Materials.Array.data[1]
       value: 
-      objectReference: {fileID: 2100000, guid: 5ceb7e07545a75142a87a2d643427b73, type: 2}
+      objectReference: {fileID: 2100000, guid: 0711ea139cbfdb04aa3f8bbbb67bca98, type: 2}
     - target: {fileID: 919132149155446097, guid: 24f740008f9a24a43bcf67313777ab56, type: 3}
       propertyPath: m_Name
       value: circle_line
@@ -3490,7 +3490,9 @@ MonoBehaviour:
   m_ShowCustomSorter: 0
   breakBeforeColorGrading: 0
   m_BeforeTransparentBundles: []
-  m_BeforeStackBundles: []
+  m_BeforeStackBundles:
+  - assemblyQualifiedName: MK.Glow.LWRP.MKGlow, MK.Glow, Version=0.0.0.0, Culture=neutral,
+      PublicKeyToken=null
   m_AfterStackBundles: []
 --- !u!4 &1952896553 stripped
 Transform:
