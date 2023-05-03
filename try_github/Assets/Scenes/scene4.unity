@@ -502,6 +502,10 @@ PrefabInstance:
       propertyPath: m_ConstrainProportionsScale
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: -8302042661755721249, guid: cd68902b16499c440a8d2ed58a139981, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6193c05fcc7742540b59939cb18e8be2, type: 2}
     - target: {fileID: 919132149155446097, guid: cd68902b16499c440a8d2ed58a139981, type: 3}
       propertyPath: m_Name
       value: model
@@ -3653,7 +3657,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_System: {fileID: 1780509805}
-  m_MoveSpeed: 1
+  m_MoveSpeed: 5
   m_EnableStrafe: 1
   m_UseGravity: 1
   m_GravityApplicationMode: 1
@@ -4505,6 +4509,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: phone
       objectReference: {fileID: 0}
+    - target: {fileID: 6320367809717290152, guid: 384c9e39d23da764c9e7570b35d690e3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d4c2cc4241f332040961e32bbdd7cec3, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 384c9e39d23da764c9e7570b35d690e3, type: 3}
 --- !u!1001 &1934302175
@@ -5465,6 +5473,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: phone (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6320367809717290152, guid: 384c9e39d23da764c9e7570b35d690e3, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: d4c2cc4241f332040961e32bbdd7cec3, type: 2}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 384c9e39d23da764c9e7570b35d690e3, type: 3}
 --- !u!1001 &2107009099
